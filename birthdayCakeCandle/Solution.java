@@ -1,4 +1,3 @@
-package birthdayCakeCandle;
 
 import java.io.*;
 import java.math.*;
