@@ -1,5 +1,3 @@
-package StairCase;
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
